@@ -87,6 +87,9 @@
             "providers": [
                 "Spatie\\MediaLibrary\\MediaLibraryServiceProvider"
             ]
+        },
+        "branch-alias": {
+            "dev-main": "10.15.0-dev"
         }
     },
     "scripts": {
