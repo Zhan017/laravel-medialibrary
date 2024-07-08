@@ -1,5 +1,6 @@
 {
     "name": "spatie/laravel-medialibrary",
+    "type": "library",
     "description": "Associate files with Eloquent models",
     "license": "MIT",
     "keywords": [
@@ -67,7 +68,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Spatie\\MediaLibrary\\": "src"
+            "Spatie\\MediaLibrary\\": "src/"
         }
     },
     "autoload-dev": {
